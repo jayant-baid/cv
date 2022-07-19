@@ -21,10 +21,14 @@ h2{
 }
 h3{
     color: #363062;
-    font-family:'Comic Sans MS', 'Comic Sans', cursive;
+    font-family: 'Comic Sans MS', 'Comic Sans';
 }
 summary{
     color: #363062;
-    font-family:'Comic Sans MS', 'Comic Sans', cursive;
+    font-family:'Comic Sans MS', 'Comic Sans';
     font-size: 17px;
+}
+a:hover{
+    background-color: gold;
+    color: red;
 }
